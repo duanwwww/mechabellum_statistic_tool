@@ -160,5 +160,8 @@ class Data:
         self.cost = cost
         self.bias = base_supply_cost(round) + cost - unit_cost(name, level, num)
 
+    def get_bias(self):
+        return self.bias
+
     def __str__(self):
         return f'Round{self.round}, {self.name} lv.{self.level} * {self.num}, cost: {self.cost} bias: {self.bias}'

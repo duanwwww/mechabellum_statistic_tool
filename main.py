@@ -48,6 +48,12 @@ def main():
                     else:
                         break
             if not_found:
+                new_data = Data(round, name, level, num, cost)
+                if abs(new_data.get_bias()) >= 300:
+                    print('Bias is too large, do you want to add it?')
+                    user_choice = input_int('1. yes\n2. no\n')
+                    if user_choice == 2:
+                        continue
                 data.append(Data(round, name, level, num, cost).__dict__)
             with open('data.json', 'w') as f:
                 json.dump(data, f)

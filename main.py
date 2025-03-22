@@ -24,7 +24,9 @@ def main():
     while(True):
         print('1. add data')
         print('2. show data')
-        print('3. exit')
+        print('3. search data')
+        print('4. delete data')
+        print('0. exit')
         choice = input('Enter your choice: ')
         if choice == '1':
             round = input_int('Enter round: ')
@@ -63,6 +65,28 @@ def main():
             for d in data:
                 print(Data(d['round'], d['name'], d['level'], d['num'], d['cost']))
         elif choice == '3':
+            # search by round or name
+            user_choice = input_int('1. search by round\n2. search by name\n')
+            if user_choice == 1:
+                round = input_int('Enter round: ')
+                for d in data:
+                    if d['round'] == round:
+                        print(Data(d['round'], d['name'], d['level'], d['num'], d['cost']))
+            elif user_choice == 2:
+                name = input_name('Enter name: ')
+                for d in data:
+                    if d['name'] == name:
+                        print(Data(d['round'], d['name'], d['level'], d['num'], d['cost']))
+        elif choice == '4':
+            round = input_int('Enter round: ')
+            name = input_name('Enter name: ')
+            level = input_int('Enter level: ')
+            num = input_int('Enter num: ')
+            for d in data:
+                if d['round'] == round and d['name'] == name and d['level'] == level and d['num'] == num:
+                    data.remove(d)
+                    break
+        elif choice == '0':
             break
         else:
             print('Invalid choice')

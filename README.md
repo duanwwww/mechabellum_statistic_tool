@@ -10,7 +10,13 @@
 + ***这些数据本就该透明呀***
 
 #### 更新日志
+2025.4.5 更新数据至正式服1.3版本
 2025.3.22 更新开局数据
+
+#### 私货
+同学的钢铁指挥官笔记（？）更新ing~
+
+https://bhpan.buaa.edu.cn/anyshare/zh-cn/link/AA9A07CA44371F40DF8DAD016FC87E44C1?_tb=none&expires_at=1970-01-01T08%3A00%3A00%2B08%3A00&item_type=folder&password_required=false&title=%E9%92%A2%E9%93%81%E6%8C%87%E6%8C%A5%E5%AE%98%E7%AC%94%E8%AE%B0&type=anonymous
 
 #### 其他的一点计划
 + ~~统计一下各个专家和开局兵种对应的血量补正~~  搞定了，见`开局.xlsx`

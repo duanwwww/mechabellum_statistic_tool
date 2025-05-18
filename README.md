@@ -26,23 +26,27 @@ https://bhpan.buaa.edu.cn/anyshare/zh-cn/link/AA9A07CA44371F40DF8DAD016FC87E44C1
 
 #### B站主播&up主指路
 括号内注明游戏id，如有误或有变动请及时通知。
-+ 花仙（青山见我应如是&你是蓬莱花仙）：https://space.bilibili.com/283896652
-+ 沐晨风（沐晨风&沐晨风）：https://space.bilibili.com/17741014
-+ 老匪（老匪_GODOG）：https://space.bilibili.com/444746395
-+ 鲨鱼（B站鲨鱼菜鸟）：https://space.bilibili.com/1788900633
-+ 单真（单真&若安）：https://space.bilibili.com/398972864
-+ 小m（Measim）：https://space.bilibili.com/502122574
-+ 教官（B站指挥官教官）：https://space.bilibili.com/404716424
-+ 冰火（冰火SAMA）：https://space.bilibili.com/33826182
-+ 千层雪（千层雪）：https://space.bilibili.com/167128185
-+ 笨蔬菜（笨蔬菜）：https://space.bilibili.com/88728
-+ bbbb（tsuk1k0）：https://space.bilibili.com/7268582
++ 花仙（青山见我应如是&你是蓬莱花仙）：https://space.bilibili.com/283896652 直播 + 录播
++ 沐晨风（沐晨风&沐晨风）：https://space.bilibili.com/17741014 直播 + 录播
++ 老匪（老匪_GODOG）：https://space.bilibili.com/444746395 直播
++ 鲨鱼（B站鲨鱼菜鸟）：https://space.bilibili.com/1788900633 直播
++ 单真（单真&若安）：https://space.bilibili.com/398972864 直播
++ 小m（Measim）：https://space.bilibili.com/502122574 本来说要直播现在又不播了
++ 教官（B站指挥官教官）：https://space.bilibili.com/404716424 直播 + 偶尔切片
++ 冰火（冰火SAMA）：https://space.bilibili.com/33826182 直播 + 偶尔做视频
++ 千层雪（千层雪）：https://space.bilibili.com/167128185 直播 + 很多切片
++ 笨蔬菜（笨蔬菜）：https://space.bilibili.com/88728 视频
++ bbbb（tsuk1k0）：https://space.bilibili.com/7268582 很多视频
++ 重剑无锋（重剑无锋）：https://space.bilibili.com/94109855 视频
++ 兔子（木末卷 & ~~还有一个我忘了~~）https://www.bilibili.com/video/BV1y3VizZERw 视频
++ 西摩格之影（西摩格之影）https://space.bilibili.com/34450987 直播 + 录播
+
 
 #### 一些赛事的指路
 + MAG1：算是最顶尖的全球钢铁赛事，对匹配分有要求，奖金丰厚。赛事官方账号：https://space.bilibili.com/374527969
-+ 虫虫杯（CCB）：201本地民间赛事，对分数没有很高要求，也没啥奖金（x）。虫妖老板账号：https://space.bilibili.com/304798190
++ 虫虫杯（CCB）：201本地民间赛事，对分数没有很高要求。虫妖老板账号：https://space.bilibili.com/304798190
 + 游戏内锦标赛，没啥好说的。每周六晚八点是大赛。不过锦标赛的时间可能会和mag1冲突，导致一部分高手不来锦标赛。
-+ 除此以外，老匪、鲨鱼等等主播也可能不定期举报一些赛事，想得到及时通知请进入各个主播的粉丝群哦
++ 除此以外，老匪、鲨鱼等等主播也可能不定期举办一些赛事，想得到及时通知请进入各个主播的粉丝群哦
 
 #### 致谢
 千层雪
